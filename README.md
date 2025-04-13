@@ -17,9 +17,10 @@ This repository provides a minimal and memory-efficient way to run the **Mistral
 
 ## 🚀 Usage
 
-1. Download the [Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) weights into the `./mistral_7b_instruct/` folder, or download the files from this repository (recommended)
-2. Install dependencies:
+1. Download the [Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) weights into the `./mistral_7b_instruct/` folder (The mistral_7b_instruct folder itself should be in whichever folder you have the ai_splitter python script), or just download all the files from this repository (recommended)
 
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   
 3. Run ai_splitter.py in a terminal window
