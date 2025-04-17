@@ -6,7 +6,7 @@ This repository provides a minimal and memory-efficient way to run the **Mistral
 ## 🔧 Features
 
 - Layer-by-layer loading from `safetensors` model shards
-- Currently known to be compatible with Mistral-7B Instruct v3.0 from Hugging Face
+- Currently known to be compatible with Mistral-7B Instruct v3.0 from Hugging Face (More and larger models coming soon)
 - CPU-only, no GPU required
 - Minimal dependencies and clean CLI interface
 
