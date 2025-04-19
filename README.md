@@ -20,6 +20,7 @@ This repository provides a minimal and memory-efficient way to run the Mistral-7
 
 
 📦 Requirements
+
 Python 3.8+
 4GB of RAM Minimum (More, or added gpu, directly decreases time per token)
 See requirements.txt for packages
@@ -29,9 +30,6 @@ Download the Mistral-7B-Instruct-v0.3 files into the ./mistral_7b_instruct/ fold
 
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run overload.py in a terminal window
 When prompted, enter how much GPU VRAM and system RAM to leave unused for safety/overload. If you don’t have a GPU, it won't ask about VRAM.
