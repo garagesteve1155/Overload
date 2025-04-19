@@ -2,3 +2,4 @@ torch
 transformers
 safetensors
 psutil
+numpy
