@@ -46,3 +46,7 @@ pip install -r requirements.txt
 Run overload.py in a terminal window
 
 When prompted, enter how much GPU VRAM and system RAM to leave unused for safety/overload. If you don’t have a GPU, it won't ask about VRAM.
+
+
+
+This software has been tested on Windows 8 and Windows 11. It has not yet been tested on Linux/Mac/Raspberry Pi.
