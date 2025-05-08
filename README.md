@@ -19,6 +19,12 @@ This repository provides a minimal and memory-efficient way to run the Mistral-7
 - Minimal dependencies and clean CLI interface
 
 
+Explanation Videos:
+
+https://youtu.be/53Do4whfrqE?si=2ODPnr8G8HFL9-Q6
+
+https://youtu.be/yVNQHMtITfk?si=FpgJtQlO0lIDdBqa
+
 
 📦 Requirements
 
