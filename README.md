@@ -35,9 +35,12 @@ Python 3.8+
 See requirements.txt for packages
 
 
-🚀 Usage
 
-Download the Mistral-7B-Instruct-v0.3 files into the ./mistral_7b_instruct/ folder (The mistral_7b_instruct folder itself should be in whichever folder you have the Overload python script). You need the numbered .safetensors files, plus all the other non-weight files
+🚀 Usage on PC
+
+Clone this repo to your device/computer.
+
+Download the Mistral-7B-Instruct-v0.3 files into the ./mistral_7b_instruct/ folder (The mistral_7b_instruct folder itself should be in whichever folder you have the Overload python script). You need the numbered .safetensors files (NOT the consolidated safetensors file!!!), plus all the other non-weight files
 
 Install dependencies:
 
@@ -45,8 +48,16 @@ pip install -r requirements.txt
 
 Run overload.py in a terminal window
 
-When prompted, enter how much GPU VRAM and system RAM to leave unused for safety/overload. If you don’t have a GPU, it won't ask about VRAM.
 
 
+🚀 Usage on Raspberry Pi 5
 
-This software has been tested on Windows 8 and Windows 11. It has not yet been tested on Linux/Mac/Raspberry Pi.
+Clone this repo to your device/computer.
+
+Download the Mistral-7B-Instruct-v0.3 files into the ./mistral_7b_instruct/ folder (The mistral_7b_instruct folder itself should be in whichever folder you have the Overload python script). You need the numbered .safetensors files (NOT the consolidated safetensors file!!!), plus all the other non-weight files
+
+Then in a terminal, navigate to the folder where the Overload.py script exists, and run this command to install all dependencies for Pi5:
+
+bash pi5_setup.sh
+
+Follow the instructions from the install script to run Overload.
