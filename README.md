@@ -2,7 +2,7 @@ Overload
 
 Run Mistral 7b Instruct on about 2gb of RAM
 
-This repository provides a minimal and memory-efficient way to run the Mistral-7B Instruct v3.0 model on low-resource devices (e.g. CPUs with limited RAM). It loads model weights layer-by-layer directly from disk, avoiding the need to hold the entire model in memory at once. The goal of this project is to allow anyone to run even 100B+ models on almost any modern-ish (Last 10 years or so) computer.
+This repository provides a minimal and memory-efficient way to run the Mistral-7B Instruct v0.3 model on low-resource devices (e.g. CPUs with limited RAM). It loads model weights layer-by-layer directly from disk, avoiding the need to hold the entire model in memory at once. The goal of this project is to allow anyone to run even 100B+ models on almost any modern-ish (Last 10 years or so) computer.
 
 🔧 Features
 
