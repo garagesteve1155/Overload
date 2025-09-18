@@ -12,7 +12,7 @@ This repository provides a minimal and memory-efficient way to run the Mistral-7
 
 - GPU acceleration supported (with user-selectable VRAM safety buffer + RAM safety buffer)
 
-- Currently known to be compatible with Mistral-7B Instruct v3.0 from Hugging Face (More and larger models coming soon)
+- Currently known to be compatible with Mistral-7B Instruct v0.3 from Hugging Face (More and larger models coming soon)
 
 - CPU-only mode still supported, no GPU required
 
