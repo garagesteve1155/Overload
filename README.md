@@ -32,6 +32,8 @@ Python 3.8+
 
 4GB of RAM Minimum (More, or added gpu, directly decreases time per token)
 
+Mistral 7B-Instruct v0.3 - https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
+
 See requirements.txt for packages
 
 
