@@ -2,7 +2,6 @@
 set -e
 
 # full setup script for Overload on Raspberry Pi 5 (4GB)
-# assumes you are already inside the cloned Overload repo folder
 
 # 1) update OS and install build tools
 sudo apt update && sudo apt upgrade -y
